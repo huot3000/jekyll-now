@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm currently working on my own personal projects. Before this, I was operations manager at Real Ventures, management consultant at Parthenon, and student at the LSE. I'm from Montréal, I like to ski, fish, and listen to funky nigerian music.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can contact me at philippe.ht (at) gmail.com
