@@ -1,4 +1,6 @@
-Personal website I am building using Jekyll. Jekyll Now README below, for reference. 
+Personal website I am building using Jekyll. 
+
+Jekyll Now README below, for reference. 
 
 
 ### Jekyll Now README
