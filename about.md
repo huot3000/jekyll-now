@@ -9,4 +9,4 @@ I'm a product person currently working on a few personal projects. Before this, 
 
 ### Contact me
 
-You can contact me at [hello@philhuot.com](hello@philhuot.com)
+You can contact me at [hello@philhuot.com](mailto:hello@philhuot.com)
